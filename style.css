@@ -111,7 +111,7 @@ section {
     display: grid;
     place-items: center;
     font-size: 65px;
-    font-weight: bold;
+    font-weight: italic;
     color: white;
     flex-shrink: 0;
 }
